@@ -1,2 +1,2 @@
 # Dicee
-Two player dicee 
+A two player Dicee made using HTML, CSS & JavaScript.
